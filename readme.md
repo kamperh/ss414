@@ -1,6 +1,7 @@
 ## Acknowledgements
 
-The original content in this course ... [Thomas Niesler](https://dsp.sun.ac.za/~trn/).
+This content is based heavily on a course originally developed by
+[Thomas Niesler](https://dsp.sun.ac.za/~trn/) at Stellenbosch University.
 
 
 ## License

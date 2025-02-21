@@ -1,3 +1,13 @@
+## Course material
+
+| Slides | Videos |
+|---|---|
+| [Introduction to digital signal processing](slides/intro_dsp_slide.pdf) |  |
+| [Recap of continuous signal processing](slides/recap_continuous_slide.pdf) |  |
+| [Analog-to-digital conversion](slides/quantisation_sampling_slide.pdf) |  |
+| [Discrete-time Fourier transform (DTFT)](slides/dtft_slide.pdf) |  |
+
+
 ## Acknowledgements
 
 This content is based heavily on a course originally developed by

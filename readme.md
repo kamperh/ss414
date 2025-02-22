@@ -2,7 +2,7 @@
 
 | Slides | Videos |
 |---|---|
-| [Introduction to digital signal processing](slides/intro_dsp_slide.pdf) |  |
+| [Introduction to digital signal processing](slides/intro_dsp_slide.pdf) | [Introduction to digital signal processing](https://www.youtube.com/watch?v=h9V4NM9Znb4&list=PLmZlBIcArwhMrUZ_njMmlO_T8gAWHihNS) |
 | [Recap of continuous signal processing](slides/recap_continuous_slide.pdf) |  |
 | [Analog-to-digital conversion](slides/quantisation_sampling_slide.pdf) |  |
 | [Discrete-time Fourier transform (DTFT)](slides/dtft_slide.pdf) |  |

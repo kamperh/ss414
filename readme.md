@@ -6,6 +6,8 @@
 | [Recap of continuous signal processing](slides/recap_continuous_slide.pdf) | [Continuous convolution](https://youtu.be/doGQYZFEZc8&list=PLmZlBIcArwhMrUZ_njMmlO_T8gAWHihNS) (14 min) <br> [Recap of the Fourier transform](https://youtu.be/EEdfQ1z_F6k&list=PLmZlBIcArwhMrUZ_njMmlO_T8gAWHihNS) (7 min) |
 | [Analog-to-digital conversion](slides/quantisation_sampling_slide.pdf) |  |
 | [Discrete-time Fourier transform (DTFT)](slides/dtft_slide.pdf) |  |
+| [Discrete Fourier transform (DFT)](slides/dft_slide.pdf) | |
+| [What does the DFT tell us?](slides/dft_properties_slide.pdf) | |
 
 
 ## Acknowledgements

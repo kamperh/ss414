@@ -4,7 +4,7 @@
 |---|---|
 | [Introduction to digital signal processing](slides/intro_dsp_slide.pdf) | [Introduction to digital signal processing](https://youtu.be/h9V4NM9Znb4&list=PLmZlBIcArwhMrUZ_njMmlO_T8gAWHihNS) (7 min) |
 | [Recap of continuous signal processing](slides/recap_continuous_slide.pdf) | [Continuous convolution](https://youtu.be/doGQYZFEZc8&list=PLmZlBIcArwhMrUZ_njMmlO_T8gAWHihNS) (14 min) <br> [Recap of the Fourier transform](https://youtu.be/EEdfQ1z_F6k&list=PLmZlBIcArwhMrUZ_njMmlO_T8gAWHihNS) (7 min) |
-| [Analog-to-digital conversion](slides/quantisation_sampling_slide.pdf) | [Analog-to-digital conversion](https://youtu.be/7axb-QfolGo&list=PLmZlBIcArwhMrUZ_njMmlO_T8gAWHihNS) (7 min) |
+| [Analog-to-digital conversion](slides/quantisation_sampling_slide.pdf) | [Analog-to-digital conversion](https://youtu.be/7axb-QfolGo&list=PLmZlBIcArwhMrUZ_njMmlO_T8gAWHihNS) (7 min) <br> [Quantisation](https://youtu.be/ZScd9UPCmtc&list=PLmZlBIcArwhMrUZ_njMmlO_T8gAWHihNS) <br> [Quantisation demo](??) |
 | [Discrete-time Fourier transform (DTFT)](slides/dtft_slide.pdf) |  |
 | [Discrete Fourier transform (DFT)](slides/dft_slide.pdf) | |
 | [What does the DFT tell us?](slides/dft_properties_slide.pdf) | |

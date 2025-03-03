@@ -12,8 +12,10 @@
 
 ## Acknowledgements
 
-This content is based heavily on a course originally developed by
-[Thomas Niesler](https://dsp.sun.ac.za/~trn/) at Stellenbosch University.
+The content is based heavily on notes originally developed by [Thomas
+Niesler](https://dsp.sun.ac.za/~trn/). Some material were also obtained from
+[Jaco Versfeld](https://ee.sun.ac.za/djjversfeld/). Both Thomas and Jaco are at
+Stellenbosch University.
 
 
 ## License

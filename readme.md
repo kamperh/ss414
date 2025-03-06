@@ -12,6 +12,11 @@
 | [Short-time Fourier transform (STFT)](slides/stft_slide.pdf) | |
 
 
+## Resources
+
+- [Video playlist](https://www.youtube.com/playlist?list=PLmZlBIcArwhMrUZ_njMmlO_T8gAWHihNS)
+
+
 ## Acknowledgements
 
 The content is based heavily on notes originally developed by [Thomas

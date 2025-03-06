@@ -15,7 +15,7 @@
 ## Acknowledgements
 
 The content is based heavily on notes originally developed by [Thomas
-Niesler](https://dsp.sun.ac.za/~trn/). Some material were also obtained from
+Niesler](https://dsp.sun.ac.za/~trn/). Some material was also obtained from
 [Jaco Versfeld](https://ee.sun.ac.za/djjversfeld/). Thomas and Jaco are with
 Stellenbosch University.
 

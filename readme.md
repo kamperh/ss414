@@ -8,6 +8,8 @@
 | [Discrete-time Fourier transform (DTFT)](slides/dtft_slide.pdf) |  |
 | [Discrete Fourier transform (DFT)](slides/dft_slide.pdf) | |
 | [What does the DFT tell us?](slides/dft_properties_slide.pdf) | |
+| [Zero padding](slides/zero_padding_slide.pdf) | |
+| [Short-time Fourier transform (stft_slide.pdf)](slides/stft_slide.pdf) | |
 
 
 ## Acknowledgements

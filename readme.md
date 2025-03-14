@@ -10,7 +10,10 @@
 | [What does the DFT tell us?](slides/dft_properties_slide.pdf) | |
 | [Zero padding](slides/zero_padding_slide.pdf) | |
 | [Short-time Fourier transform (STFT)](slides/stft_slide.pdf) | |
-
+| [Fast Fourier transform (FFT)](slides/fft_slide.pdf) | |
+| [Upsampling and downsampling](slides/up_downsampling_slide.pdf) | |
+| [Discrete convolution](slides/discrete_convolution_slide.pdf) | |
+| [Energy and power of discrete signals](slides/discrete_energy_power_slide.pdf) | |
 
 ## Resources
 

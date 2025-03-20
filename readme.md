@@ -1,6 +1,6 @@
 ## Course material
 
-**Discrete signals and signal analysis:**
+### Discrete signals and signal analysis
 
 | Slides | Videos |
 |---|---|

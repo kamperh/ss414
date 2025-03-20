@@ -2,7 +2,8 @@
 
 | Slides | Videos |
 |---|---|
-| **Discrete signals and signal analysis** <br>[Introduction to digital signal processing](slides/intro_dsp_slide.pdf) | [Introduction to digital signal processing](https://youtu.be/h9V4NM9Znb4&list=PLmZlBIcArwhMrUZ_njMmlO_T8gAWHihNS) (7 min) |
+| **Discrete signals and signal analysis** | |
+| [Introduction to digital signal processing](slides/intro_dsp_slide.pdf) | [Introduction to digital signal processing](https://youtu.be/h9V4NM9Znb4&list=PLmZlBIcArwhMrUZ_njMmlO_T8gAWHihNS) (7 min) |
 | [Recap of continuous signal processing](slides/recap_continuous_slide.pdf) | [Continuous convolution](https://youtu.be/doGQYZFEZc8&list=PLmZlBIcArwhMrUZ_njMmlO_T8gAWHihNS) (14 min) <br> [Recap of the Fourier transform](https://youtu.be/EEdfQ1z_F6k&list=PLmZlBIcArwhMrUZ_njMmlO_T8gAWHihNS) (7 min) |
 | [Analog-to-digital conversion](slides/quantisation_sampling_slide.pdf) | [Analog-to-digital conversion](https://youtu.be/7axb-QfolGo&list=PLmZlBIcArwhMrUZ_njMmlO_T8gAWHihNS) (7 min) <br> [Quantisation](https://youtu.be/ZScd9UPCmtc&list=PLmZlBIcArwhMrUZ_njMmlO_T8gAWHihNS) (21 min) <br> [Quantisation demo](https://youtu.be/hZvD5tNGR8Q&list=PLmZlBIcArwhMrUZ_njMmlO_T8gAWHihNS) (6 min) <br> [Discretising in time](https://youtu.be/2k5tIecyHgU&list=PLmZlBIcArwhMrUZ_njMmlO_T8gAWHihNS) (7 min) <br> [Aliasing](https://youtu.be/60MjC9n4psA&list=PLmZlBIcArwhMrUZ_njMmlO_T8gAWHihNS) (7 min) |
 | [Discrete-time Fourier transform (DTFT)](slides/dtft_slide.pdf) |  |

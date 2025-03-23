@@ -20,7 +20,7 @@
 
 ## Resources
 
-- [Full course playlist](https://www.youtube.com/playlist?list=PLmZlBIcArwhMrUZ_njMmlO_T8gAWHihNS)
+- [Course video playlist](https://www.youtube.com/playlist?list=PLmZlBIcArwhMrUZ_njMmlO_T8gAWHihNS)
 - [Surviving Life](https://www.youtube.com/laylist?llist=PLmZlBIcArwhOpJ6Fkz7OghXQQQ9_UjGTE)
 
 

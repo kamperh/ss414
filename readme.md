@@ -1,6 +1,6 @@
 ## Course material
 
-### Discrete signals and signal analysis
+#### Discrete signals and signal analysis
 
 | Slides | Videos |
 |---|---|
@@ -18,7 +18,7 @@
 | [Energy and power of discrete signals](slides/discrete_energy_power_slide.pdf) | |
 | [Correlation for discrete energy and power signals](slides/discrete_correlation_slide.pdf) | |
 
-### Discrete-time systems
+#### Discrete-time systems
 
 | Slides | Videos |
 |---|---|

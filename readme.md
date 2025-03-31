@@ -18,10 +18,22 @@
 | [Energy and power of discrete signals](slides/discrete_energy_power_slide.pdf) | |
 | [Correlation for discrete energy and power signals](slides/discrete_correlation_slide.pdf) | |
 
+### Discrete-time systems
+
+| Slides | Videos |
+|---|---|
+| [Introduction to discrete-time systems](slides/???.pdf) | [Introduction to discrete-time systems](https://youtu.be/skTuURIQUMA&list=PLmZlBIcArwhMrUZ_njMmlO_T8gAWHihNS) (10 min) <br> [Time-invariance in discrete systems](https://youtu.be/-G3IsmSA7N4&list=PLmZlBIcArwhMrUZ_njMmlO_T8gAWHihNS) (8 min) <br> [Linearity in discrete systems](https://youtu.be/FCyxrmuzhZw&list=PLmZlBIcArwhMrUZ_njMmlO_T8gAWHihNS) (7 min) <br> [Causality and stability in discrete systems](https://youtu.be/INrM4Bg9J34&list=PLmZlBIcArwhMrUZ_njMmlO_T8gAWHihNS) (7 min) |
+| [Linear time-invariant (LTI) systems](slides/???.pdf) | [Linear time-invariant (LTI) systems](https://youtu.be/zY8PCEpXM_8&list=PLmZlBIcArwhMrUZ_njMmlO_T8gAWHihNS) (15 min) <br> [LTI demo](https://youtu.be/NU3nYY3fgxA&list=PLmZlBIcArwhMrUZ_njMmlO_T8gAWHihNS) (6 min) <br> [Causality in LTI systems](https://youtu.be/seIMfKQLbgY&list=PLmZlBIcArwhMrUZ_njMmlO_T8gAWHihNS) (11 min) <br> [Stability of LTI systems](https://youtu.be/S5LuL76fVZ4&list=PLmZlBIcArwhMrUZ_njMmlO_T8gAWHihNS) (8 min) <br> [FIR, IIR, LCCDE systems](https://youtu.be/pKEW1Lht_3c&list=PLmZlBIcArwhMrUZ_njMmlO_T8gAWHihNS) (12 min) <br> [LCCDE demo](https://youtu.be/V6b_uYgVKIE&list=PLmZlBIcArwhMrUZ_njMmlO_T8gAWHihNS) (5 min) |
+| [Overlap-and-add for fast linear filtering](slides/???.pdf) | [Overlap-and-add for fast linear filtering](https://youtu.be/OnrwnrESaKo&list=PLmZlBIcArwhMrUZ_njMmlO_T8gAWHihNS) (25 min) |
+| [LTI correlation for system identification](slides/???.pdf) | [LTI correlation for system identification](https://youtu.be/XtnU9lzCBgI&list=PLmZlBIcArwhMrUZ_njMmlO_T8gAWHihNS) (17 min) |
+
+
+
 ## Resources
 
 - [Course video playlist](https://www.youtube.com/playlist?list=PLmZlBIcArwhMrUZ_njMmlO_T8gAWHihNS)
 - [Surviving Life](https://www.youtube.com/playlist?list=PLmZlBIcArwhOpJ6Fkz7OghXQQQ9_UjGTE)
+
 
 
 ## Acknowledgements
@@ -30,6 +42,7 @@ The content is based heavily on notes originally developed by [Thomas
 Niesler](https://dsp.sun.ac.za/~trn/). Some material was also obtained from
 [Jaco Versfeld](https://ee.sun.ac.za/djjversfeld/). Thomas and Jaco are with
 Stellenbosch University.
+
 
 
 ## License

@@ -27,6 +27,12 @@
 | [Overlap-and-add for fast linear filtering](slides/overlap_add_slide.pdf) | [Overlap-and-add for fast linear filtering](https://youtu.be/OnrwnrESaKo&list=PLmZlBIcArwhMrUZ_njMmlO_T8gAWHihNS) (25 min) |
 | [LTI correlation for system identification](slides/lti_correlation_slide.pdf) | [LTI correlation for system identification](https://youtu.be/XtnU9lzCBgI&list=PLmZlBIcArwhMrUZ_njMmlO_T8gAWHihNS) (17 min) |
 
+### Discrete signal and system analysis with the z-transform
+
+| Slides | Videos |
+|---|---|
+| [Introduction to the z-transform](slides/z_transform_intro_slide.pdf) | |
+
 
 
 ## Resources

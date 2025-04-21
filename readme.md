@@ -32,6 +32,7 @@
 | Slides | Videos |
 |---|---|
 | [Introduction to the z-transform](slides/z_transform_intro_slide.pdf) | |
+| [Missing](slides/z_transform_lti_slide.pdf) <br> [Necessity, sufficiency and stability](notes/necessity_sufficiency_stability.pdf) | |
 
 
 

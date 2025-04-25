@@ -29,10 +29,15 @@
 
 ### Discrete signal and system analysis with the z-transform
 
-| Slides | Videos |
+| Slides and notes | Videos |
 |---|---|
 | [Introduction to the z-transform](slides/z_transform_intro_slide.pdf) | |
-| [Missing](slides/z_transform_lti_slide.pdf) <br> [Necessity, sufficiency and stability](notes/necessity_sufficiency_stability.pdf) | |
+| [LTI systems with the z-transform](slides/z_transform_lti_slide.pdf) <br> [Necessity, sufficiency and stability](notes/necessity_sufficiency_stability.pdf) | |
+| [Inverse z-transform](slides/z_transform_inverse_slide.pdf) | |
+| [Frequency response with the z-transform](slides/z_transform_frequency_response_slide.pdf) | |
+
+### Discrete filters
+
 
 
 

@@ -38,6 +38,11 @@
 
 ### Discrete filters
 
+| Slides | Videos |
+|---|---|
+| [Introduction to discrete-time filters](slides/discrete_filters_intro.pdf) | |
+| [Filter phase characteristics](slides/filter_phase_slide.pdf) | |
+| [Finite impulse response (FIR) filter design](slides/filter_fir_slide.pdf) | |
 
 
 

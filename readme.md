@@ -43,6 +43,8 @@
 | [Introduction to discrete-time filters](slides/discrete_filters_intro.pdf) | |
 | [Filter phase characteristics](slides/filter_phase_slide.pdf) | |
 | [Finite impulse response (FIR) filter design](slides/filter_fir_slide.pdf) | |
+| [Infinite impulse response (IIR) filter design](slides/filter_iir.pdf) | |
+| [Transforming between filter types](slides/filter_transforms_slide.pdf) | |
 
 
 

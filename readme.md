@@ -50,6 +50,7 @@
 
 ## Resources
 
+- [Summary: Digital signal processing](notes/dsp_summary.pdf)
 - [Course video playlist](https://www.youtube.com/playlist?list=PLmZlBIcArwhMrUZ_njMmlO_T8gAWHihNS)
 - [Surviving Life](https://www.youtube.com/playlist?list=PLmZlBIcArwhOpJ6Fkz7OghXQQQ9_UjGTE)
 

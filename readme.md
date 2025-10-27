@@ -9,7 +9,7 @@
 | [Analog-to-digital conversion](slides/quantisation_sampling_slide.pdf) | [Analog-to-digital conversion](https://youtu.be/7axb-QfolGo&list=PLmZlBIcArwhMrUZ_njMmlO_T8gAWHihNS) (7 min) <br> [Quantisation](https://youtu.be/ZScd9UPCmtc&list=PLmZlBIcArwhMrUZ_njMmlO_T8gAWHihNS) (21 min) <br> [Quantisation demo](https://youtu.be/hZvD5tNGR8Q&list=PLmZlBIcArwhMrUZ_njMmlO_T8gAWHihNS) (6 min) <br> [Discretising in time](https://youtu.be/2k5tIecyHgU&list=PLmZlBIcArwhMrUZ_njMmlO_T8gAWHihNS) (7 min) <br> [Aliasing](https://youtu.be/60MjC9n4psA&list=PLmZlBIcArwhMrUZ_njMmlO_T8gAWHihNS) (7 min) |
 | [Discrete-time Fourier transform (DTFT)](slides/dtft_slide.pdf) | [Discrete-time Fourier transform (DTFT)](https://youtu.be/rFOwsuoSIJc&list=PLmZlBIcArwhMrUZ_njMmlO_T8gAWHihNS) (14 min) <br> [Inverse discrete-time Fourier transform](https://youtu.be/j-IeNQNB_iM&list=PLmZlBIcArwhMrUZ_njMmlO_T8gAWHihNS) (10 min) <br> [Sampling sinusoids and exponentials](https://youtu.be/aS1bHaldf-k&list=PLmZlBIcArwhMrUZ_njMmlO_T8gAWHihNS) (19 min) <br> [Aliasing of sinusoids](https://youtu.be/xBN7jw5JpeA&list=PLmZlBIcArwhMrUZ_njMmlO_T8gAWHihNS) (5 min) |
 | [Discrete Fourier transform (DFT)](slides/dft_slide.pdf) | [Discrete Fourier transform (DFT)](https://youtu.be/_rm8YpU9ozs&list=PLmZlBIcArwhMrUZ_njMmlO_T8gAWHihNS) (29 min) |
-| [What does the DFT tell us?](slides/dft_properties_slide.pdf) | |
+| [DFT properties and examples](slides/dft_properties_slide.pdf) | |
 | [Zero padding](slides/zero_padding_slide.pdf) | |
 | [Short-time Fourier transform (STFT)](slides/stft_slide.pdf) | |
 | [Fast Fourier transform (FFT)](slides/fft_slide.pdf) | |

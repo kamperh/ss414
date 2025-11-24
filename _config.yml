@@ -6,7 +6,7 @@ theme: minima
 github:
   is_project_page: false
 
-# Theme options
-minima:
-  nav_pages: []
-  social_links: []
+# # Theme options
+# minima:
+#   nav_pages: []
+#   social_links: []

@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Introduction to digital signal processing
+// title: Introduction to digital signal processing
 permalink: /
 ---
 

@@ -5,3 +5,8 @@ show_downloads: false
 theme: minima
 github:
   is_project_page: false
+
+# Theme options
+minima:
+  social_links: []
+  show_excerpts: false

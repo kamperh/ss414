@@ -7,6 +7,7 @@ github:
   is_project_page: false
 
 # Theme options
+header_pages: []
 minima:
   social_links: []
   show_excerpts: false

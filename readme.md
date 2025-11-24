@@ -1,5 +1,5 @@
 ---
-layout: base
+layout: page
 title: Introduction to digital signal processing
 permalink: /
 ---

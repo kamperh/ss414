@@ -31,7 +31,7 @@ permalink: /
 | [Overlap-and-add for fast linear filtering](slides/overlap_add_slide.pdf) | [Overlap-and-add for fast linear filtering](https://youtu.be/OnrwnrESaKo&list=PLmZlBIcArwhMrUZ_njMmlO_T8gAWHihNS) (25 min) |
 | [LTI correlation for system identification](slides/lti_correlation_slide.pdf) | [LTI correlation for system identification](https://youtu.be/XtnU9lzCBgI&list=PLmZlBIcArwhMrUZ_njMmlO_T8gAWHihNS) (17 min) |
 
-## Discrete signal and system analysis with the z-transform
+### Discrete signal and system analysis with the z-transform
 
 | Slides and notes | Videos |
 |---|---|
@@ -40,7 +40,7 @@ permalink: /
 | [Inverse z-transform](slides/z_transform_inverse_slide.pdf) | |
 | [Frequency response with the z-transform](slides/z_transform_frequency_response_slide.pdf) | |
 
-## Discrete filters
+### Discrete filters
 
 | Slides | Videos |
 |---|---|
@@ -52,7 +52,7 @@ permalink: /
 
 
 
-## Resources
+### Resources
 
 - [Summary: Digital signal processing](notes/dsp_summary.pdf)
 - [Course video playlist](https://www.youtube.com/playlist?list=PLmZlBIcArwhMrUZ_njMmlO_T8gAWHihNS)
@@ -60,7 +60,7 @@ permalink: /
 
 
 
-## Acknowledgements
+### Acknowledgements
 
 The content is based heavily on notes originally developed by [Thomas
 Niesler](https://dsp.sun.ac.za/~trn/). Some material was also obtained from
@@ -69,7 +69,7 @@ Stellenbosch University.
 
 
 
-## License
+### License
 
 Herman Kamper, 2025  
 This work is released under a Creative Commons Attribution-ShareAlike

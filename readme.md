@@ -1,11 +1,3 @@
----
-layout: page
-title: Introduction to digital signal processing
-permalink: /
----
-
-Systems and Signals 414
-
 ### Discrete signals and signal analysis
 
 | Slides | Videos |

@@ -1,5 +1,3 @@
-# Introduction to digital signal processing
-
 ## Discrete signals and signal analysis
 
 | Slides | Videos |

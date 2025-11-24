@@ -1,6 +1,7 @@
 ---
 layout: home
-title: Home
+title: Introduction to digital signal processing
+permalink: /
 ---
 
 ## Discrete signals and signal analysis

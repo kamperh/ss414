@@ -6,11 +6,11 @@ theme: minima
 github:
   is_project_page: false
 
-# Theme options
-minima:
-  social_links:
-    - title: Jekyll repository at GitHub
-      icon: github
-      url: "https://github.com/kamperh/ss414"
+# # Theme options
+# minima:
+#   social_links:
+#     - title: Jekyll repository at GitHub
+#       icon: github
+#       url: "https://github.com/kamperh/ss414"
 
-github_username: jekyll
+github_username: kamperh

@@ -1,7 +1,3 @@
----
-layout: home
----
-
 ## Discrete signals and signal analysis
 
 | Slides | Videos |

@@ -1,7 +1,6 @@
 ---
 layout: home
 title: Home
-permalink: /
 ---
 
 ## Discrete signals and signal analysis

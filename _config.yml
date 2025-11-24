@@ -8,5 +8,6 @@ github:
 
 # Theme options
 minima:
+  nav_pages: []
   social_links: []
   show_excerpts: false

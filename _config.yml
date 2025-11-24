@@ -1,5 +1,5 @@
 title: Systems and Signals 414
-description: Introduction to digital signal processing
+description: A first introductory course to digital signal processing.
 show_downloads: false
 # theme: jekyll-theme-slate
 theme: minima
@@ -14,3 +14,6 @@ github:
 #       url: "https://github.com/kamperh/ss414"
 
 github_username: kamperh
+youtube_username: kamperh
+google_scholar_username: F3dhs4kAAAAJ
+linked_username: kamperh

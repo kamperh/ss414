@@ -1,5 +1,4 @@
 ---
-layout: home
 title: Introduction to digital signal processing
 ---
 

@@ -8,6 +8,7 @@ github:
 
 # Theme options
 minima:
-  nav_pages: ""
+  nav_pages:
+    - readme.md#license
   social_links: []
   show_excerpts: false

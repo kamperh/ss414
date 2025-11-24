@@ -12,3 +12,5 @@ minima:
     - title: Jekyll repository at GitHub
       icon: github
       url: "https://github.com/kamperh/ss414"
+
+github_username: jekyll

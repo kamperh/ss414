@@ -1,4 +1,4 @@
-### Discrete signals and signal analysis
+## Discrete signals and signal analysis
 
 | Slides | Videos |
 |---|---|
@@ -16,7 +16,8 @@
 | [Energy and power of discrete signals](slides/discrete_energy_power_slide.pdf) | |
 | [Correlation for discrete energy and power signals](slides/discrete_correlation_slide.pdf) | |
 
-### Discrete-time systems
+
+## Discrete-time systems
 
 | Slides | Videos |
 |---|---|
@@ -25,7 +26,8 @@
 | [Overlap-and-add for fast linear filtering](slides/overlap_add_slide.pdf) | [Overlap-and-add for fast linear filtering](https://youtu.be/OnrwnrESaKo&list=PLmZlBIcArwhMrUZ_njMmlO_T8gAWHihNS) (25 min) |
 | [LTI correlation for system identification](slides/lti_correlation_slide.pdf) | [LTI correlation for system identification](https://youtu.be/XtnU9lzCBgI&list=PLmZlBIcArwhMrUZ_njMmlO_T8gAWHihNS) (17 min) |
 
-### Discrete signal and system analysis with the z-transform
+
+## Discrete signal and system analysis with the z-transform
 
 | Slides and notes | Videos |
 |---|---|
@@ -34,7 +36,8 @@
 | [Inverse z-transform](slides/z_transform_inverse_slide.pdf) | |
 | [Frequency response with the z-transform](slides/z_transform_frequency_response_slide.pdf) | |
 
-### Discrete filters
+
+## Discrete filters
 
 | Slides | Videos |
 |---|---|
@@ -45,16 +48,14 @@
 | [Transforming between filter types](slides/filter_transforms_slide.pdf) | |
 
 
-
-### Resources
+## Resources
 
 - [Summary: Digital signal processing](notes/dsp_summary.pdf)
 - [Course video playlist](https://www.youtube.com/playlist?list=PLmZlBIcArwhMrUZ_njMmlO_T8gAWHihNS)
 - [Surviving Life](https://www.youtube.com/playlist?list=PLmZlBIcArwhOpJ6Fkz7OghXQQQ9_UjGTE)
 
 
-
-### Acknowledgements
+## Acknowledgements
 
 The content is based heavily on notes originally developed by [Thomas
 Niesler](https://dsp.sun.ac.za/~trn/). Some material was also obtained from
@@ -62,8 +63,7 @@ Niesler](https://dsp.sun.ac.za/~trn/). Some material was also obtained from
 Stellenbosch University.
 
 
-
-### License
+## License
 
 Herman Kamper, 2025  
 This work is released under a Creative Commons Attribution-ShareAlike

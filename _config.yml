@@ -5,14 +5,3 @@ show_downloads: false
 theme: minima
 github:
   is_project_page: false
-
-# # Theme options
-# minima:
-#   social_links:
-#     - title: Jekyll repository at GitHub
-#       icon: github
-#       url: "https://github.com/kamperh/ss414"
-
-github_username: kamperh
-youtube_username: "@kamperh"
-linkedin_username: kamperh

@@ -3,6 +3,12 @@
 
   {%- include head.html -%}
 
+  {%- if site.title -%}
+    {%- if site.description -%}
+      <title>{{ site.title }} | {{ site.description }}</title>
+    {%- endif -%}
+  {%- endif -%}
+  
   <body>
 
     <main class="page-content" aria-label="Content">

@@ -1,13 +1,16 @@
 <!DOCTYPE html>
-<html lang="{{ page.lang | default: site.lang | default: "en" }}">
 
-  {%- include head.html -%}
+<!-- Minima version: https://github.com/jekyll/minima/releases/tag/v2.5.1  -->
+
+<html lang="{{ page.lang | default: site.lang | default: "en" }}">
 
   {%- if site.title -%}
     {%- if site.description -%}
       <title>{{ site.title }} | {{ site.description }}</title>
     {%- endif -%}
   {%- endif -%}
+
+  {%- include head.html -%}
   
   <body>
 

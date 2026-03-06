@@ -11,7 +11,7 @@
 | [DFT properties and examples](slides/2026/dft_properties_lect.pdf) | [Properties of the DFT](https://youtu.be/yXOpmvIYS0Q&list=PLmZlBIcArwhMrUZ_njMmlO_T8gAWHihNS) (5 min) <br> [DFT examples](https://youtu.be/ECT07E0wpBM&list=PLmZlBIcArwhMrUZ_njMmlO_T8gAWHihNS) (9 min) <br> [Where did the side lobes go?](https://youtu.be/4Wb2SHPGGIg&list=PLmZlBIcArwhMrUZ_njMmlO_T8gAWHihNS) (4 min) |
 | [Zero padding with the DFT](slides/2026/zero_padding_lect.pdf) | [Zero padding with the DFT](https://youtu.be/ADxA2eJ1WZQ&list=PLmZlBIcArwhMrUZ_njMmlO_T8gAWHihNS) (17 min) |
 | [Short-time Fourier transform (STFT)](slides/2026/stft_lect.pdf) | |
-| [Fast Fourier transform (FFT)](slides/2025/fft_slide.pdf) | |
+| [Fast Fourier transform (FFT)](slides/2025/fft_slide.pdf) | [Fast Fourier transform (FFT)](https://youtu.be/0FZBBZOehiM&list=PLmZlBIcArwhMrUZ_njMmlO_T8gAWHihNS) (37 min) <br> |
 | [Discrete convolution](slides/2025/discrete_convolution_slide.pdf) | |
 | [Energy and power of discrete signals](slides/2025/discrete_energy_power_slide.pdf) | |
 | [Correlation for discrete energy and power signals](slides/2025/discrete_correlation_slide.pdf) | |

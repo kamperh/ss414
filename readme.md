@@ -14,7 +14,7 @@
 | [Fast Fourier transform (FFT)](slides/2026/fft_slide.pdf) | [Fast Fourier transform (FFT)](https://youtu.be/0FZBBZOehiM&list=PLmZlBIcArwhMrUZ_njMmlO_T8gAWHihNS) (37 min) <br> [In-place computation of the FFT](https://youtu.be/SomEp-wf8cY&list=PLmZlBIcArwhMrUZ_njMmlO_T8gAWHihNS) (5 min) <br> [Decimation-in-frequency FFT](https://youtu.be/OsZDQ3qXT7E&list=PLmZlBIcArwhMrUZ_njMmlO_T8gAWHihNS) (5 min) <br> [Inverse DFT using the FFT](https://youtu.be/ZlS2-S82Tk8&list=PLmZlBIcArwhMrUZ_njMmlO_T8gAWHihNS) (6 min) |
 | [Discrete convolution](slides/2025/discrete_convolution_slide.pdf) | [Discrete convolution](https://youtu.be/AqqcUE755Ws&list=PLmZlBIcArwhMrUZ_njMmlO_T8gAWHihNS) (6 min) <br> [Circular convolution](https://youtu.be/-ytiiyKGAr4&list=PLmZlBIcArwhMrUZ_njMmlO_T8gAWHihNS) (15 min) <br> [Discrete convolution by doing circular convolution](https://youtu.be/4May0cOSFt8&list=PLmZlBIcArwhMrUZ_njMmlO_T8gAWHihNS) (5 min) |
 | [Energy and power of discrete signals](slides/2025/discrete_energy_power_slide.pdf) | [Energy and power of discrete signals](https://youtu.be/PantBJyTwpM&list=PLmZlBIcArwhMrUZ_njMmlO_T8gAWHihNS) (7 min) <br> |
-| [Correlation for discrete energy and power signals](slides/2025/discrete_correlation_slide.pdf) | |
+| [Correlation of discrete energy and power signals](slides/2025/discrete_correlation_slide.pdf) | |
 
 
 ## Discrete-time systems

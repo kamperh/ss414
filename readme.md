@@ -33,7 +33,7 @@
 |---|---|
 | [Introduction to the z-transform](slides/2026/z_transform_intro_lect.pdf) | [Introduction to the z-transform](https://youtu.be/QnWF9g4i-Vk&list=PLmZlBIcArwhMrUZ_njMmlO_T8gAWHihNS) (12 min) <br> [Example z-transform](https://youtu.be/JSIGp1cS4Tg&list=PLmZlBIcArwhMrUZ_njMmlO_T8gAWHihNS) (4 min) |
 | [Inverse z-transform](slides/2026/z_transform_inverse_lect.pdf) | |
-| [LTI systems with the z-transform](slides/20026/z_transform_lti_lect.pdf) | |
+| [LTI systems with the z-transform](slides/2026/z_transform_lti_lect.pdf) | |
 | [Frequency response with the z-transform](slides/2026/z_transform_frequency_response_lect.pdf) | |
 
 

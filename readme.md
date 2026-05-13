@@ -46,7 +46,7 @@
 | [Control systems vs signal processing](slides/2026/control_dsp_lect.pdf) | |
 | [Finite impulse response (FIR) filter design](slides/2026/filter_fir_lect.pdf) | |
 | [Infinite impulse response (IIR) filter design](slides/2026/filter_iir_lect.pdf) | |
-| [Transforming between filter types](slides/2025/filter_transforms_slide.pdf) | |
+| [Transforming between filter types](slides/2026/filter_transforms_lect.pdf) | |
 
 
 ## Resources

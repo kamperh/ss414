@@ -33,7 +33,7 @@
 |---|---|
 | [Introduction to the z-transform](slides/2026/z_transform_intro_lect.pdf) | [Introduction to the z-transform](https://youtu.be/QnWF9g4i-Vk&list=PLmZlBIcArwhMrUZ_njMmlO_T8gAWHihNS) (12 min) <br> [Example z-transform](https://youtu.be/JSIGp1cS4Tg&list=PLmZlBIcArwhMrUZ_njMmlO_T8gAWHihNS) (4 min)|
 | [Inverse z-transform](slides/2026/z_transform_inverse_lect.pdf) |  [Inverse z-transform](https://youtu.be/8DNXLjkgxeI&list=PLmZlBIcArwhMrUZ_njMmlO_T8gAWHihNS) (5 min)  |
-| [LTI systems with the z-transform](slides/2026/z_transform_lti_lect.pdf) | [Transfer functions in the z-domain](https://youtu.be/39TOyCecB-0&list=PLmZlBIcArwhMrUZ_njMmlO_T8gAWHihNS) (11 min) <br> [Poles and zeros in the z-transform](https://youtu.be/degbmiD6roY&list=PLmZlBIcArwhMrUZ_njMmlO_T8gAWHihNS) (6 min) |
+| [LTI systems with the z-transform](slides/2026/z_transform_lti_lect.pdf) | [Transfer functions in the z-domain](https://youtu.be/39TOyCecB-0&list=PLmZlBIcArwhMrUZ_njMmlO_T8gAWHihNS) (11 min) <br> [Poles and zeros in the z-transform](https://youtu.be/degbmiD6roY&list=PLmZlBIcArwhMrUZ_njMmlO_T8gAWHihNS) (6 min) <br> [Stability from the z-transform](https://youtu.be/K8icX1Yla-U&list=PLmZlBIcArwhMrUZ_njMmlO_T8gAWHihNS) (14 min) |
 | [Frequency response with the z-transform](slides/2026/z_transform_frequency_response_lect.pdf) | |
 
 
